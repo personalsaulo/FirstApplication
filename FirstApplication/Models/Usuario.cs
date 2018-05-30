@@ -17,7 +17,7 @@ namespace FirstApplication.Models
                 sobrenome = "'Aluno 2'",
                 endereco = "'Rua 111, 100'",
                 email = "'Teste@teste.com'",
-                nascimento = Convert.ToDateTime("'05/09/1975'")
+                nascimento = Convert.ToDateTime("05/09/1975")
             });
         }
 
